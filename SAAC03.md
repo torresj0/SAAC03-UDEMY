@@ -6,5 +6,5 @@ pool of IPv4 addresses.
 Once the elastic IPv4 is created, you will be owning it, until you pay for its "rental". Each elastic ip address need to be assigned to a specific
 instance/network interface. As long as you created, you should assign it to an instance/network interface, because you are charged as soon as the ip is created
 
-___
+
 # **PLACEMENT GROUPS IN AWS**
